@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hillarybett
+- 👋 Hi, I’m Hillary Bett
 - 👀 I’m interested in artificial intelligence.
 - 🌱 I’m currently learning python and in my 3rd year pursuing Bs. Computer science.
 - 💞️ I’m looking to collaborate on software development and tech related projects. 
